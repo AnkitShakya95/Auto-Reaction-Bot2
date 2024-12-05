@@ -46,14 +46,14 @@ export const htmlContent = `
 <div class="title">Telegram Auto Reaction Bot 🎉</div>
 <img class="logo" src="https://telegra.ph/file/cb59967120c6bda64580b.jpg">
 
-<button class="button githubBtn" onclick="window.location='https://github.com/Malith-Rukshan/Auto-Reaction-Bot'">Open Source 🌱</button>
+<button class="button githubBtn" onclick="window.location='https://github.com/AnkitShakya95/Auto-Reaction-Bot2'">Open Source 🌱</button>
 
 <div style="margin: 5px;">
-  <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot" data-size="large" data-show-count="true">Star</a>
-  <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot/fork" data-size="large" data-show-count="true">Fork</a>
+  <a class="github-button" href="https://github.com/AnkitShakya95/Auto-Reaction-Bot2" data-size="large" data-show-count="true">Star</a>
+  <a class="github-button" href="https://github.com/AnkitShakya95/Auto-Reaction-Bot2/fork" data-size="large" data-show-count="true">Fork</a>
 </div>
 <div>
-  <a class="github-button" href="https://github.com/Malith-Rukshan" data-size="large">Follow @Malith-Rukshan</a>
+  <a class="github-button" href="https://github.com/AnkitShakya95" data-size="large">Follow @AnkitShakya73</a>
 </div>
 </body>
 </html>
